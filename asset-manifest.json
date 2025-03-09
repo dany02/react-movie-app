@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/dany02/react-movie-app.git/static/js/main.60cc7083.js",
-    "index.html": "/dany02/react-movie-app.git/index.html",
-    "main.60cc7083.js.map": "/dany02/react-movie-app.git/static/js/main.60cc7083.js.map"
+    "main.js": "/react-movie-app/static/js/main.60cc7083.js",
+    "index.html": "/react-movie-app/index.html",
+    "main.60cc7083.js.map": "/react-movie-app/static/js/main.60cc7083.js.map"
   },
   "entrypoints": [
     "static/js/main.60cc7083.js"
